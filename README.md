@@ -1,8 +1,7 @@
-Olá! Eu sou o Gregory Henry
+Olá! Eu sou o Gregory Henry 🧑‍💻
 
-- 🔭 Hoje trabalho com qualidade de software
-- 🌱 Estudando Javascript, NodeJs, React e Typescript
-- 😄 Pronouns: ele/dele
+- 💻 Hoje trabalho com Qualidade de Software.
+- 🖋️ Estudando Javascript, NodeJs, React e Typescript
 
 <div align="center">
   <a href="https://github.com/GregyHenry">

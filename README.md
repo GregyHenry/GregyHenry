@@ -6,7 +6,7 @@ Olá! Eu sou o Gregory Henry 🧑‍💻
 <div align="center">
   <a href="https://github.com/GregyHenry">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GregyHenry&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregyHenry&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregyHenry&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  <div style="display: inline_block"><br>

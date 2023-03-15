@@ -2,13 +2,19 @@ Olá! Eu sou o Gregory Henry 🧑‍💻
 
 - 💻 Sou atualmente Tech Lead responsável em analisar e integrar soluções de Marketplace B2B (Commerce) utilizando as tecnologias: 
 
- ● Salesforce
- ● SAP Commerce Cloud (Hybris)
- ● Adobe Experience Manager (AEM)
- ● SAP-SD
- ● Api Gateway Axway
- ● Oracle Service Bus
- ● Microsserviços
+     ● Salesforce
+ 
+     ● SAP Commerce Cloud (Hybris)
+ 
+     ● Adobe Experience Manager (AEM)
+ 
+     ● SAP-SD
+ 
+     ● Api Gateway Axway
+ 
+     ● Oracle Service Bus
+ 
+     ● Microsserviços
 
 - 🖋️ Estudando Java, Javascript, NodeJs, React e Typescript
 
@@ -24,7 +30,6 @@ Olá! Eu sou o Gregory Henry 🧑‍💻
   <img align="center" alt="Greg-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Greg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Greg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Greg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Greg-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   

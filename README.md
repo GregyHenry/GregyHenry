@@ -1,7 +1,16 @@
 Olá! Eu sou o Gregory Henry 🧑‍💻
 
-- 💻 Hoje trabalho com Qualidade de Software.
-- 🖋️ Estudando Javascript, NodeJs, React e Typescript
+- 💻 Sou atualmente Tech Lead responsável em analisar e integrar soluções de Marketplace B2B (Commerce) utilizando as tecnologias: 
+
+ ● Salesforce
+ ● SAP Commerce Cloud (Hybris)
+ ● Adobe Experience Manager (AEM)
+ ● SAP-SD
+ ● Api Gateway Axway
+ ● Oracle Service Bus
+ ● Microsserviços
+
+- 🖋️ Estudando Java, Javascript, NodeJs, React e Typescript
 
 <div align="center">
   <a href="https://github.com/GregyHenry">
